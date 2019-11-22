@@ -6,10 +6,12 @@ private String book_name;
 public boolean addBookItem(int book_id);
 public boolean deleteBookItem(int book_id);
 
-}
+
 
 public static void main()
 {
-
-
+     System.out.println("Hello from Library");
+     
+}
+  
 }
